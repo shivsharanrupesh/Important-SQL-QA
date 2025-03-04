@@ -1,4 +1,4 @@
-#  SQL Queries
+# SQL Queries
 
 ## Medium Level
 
@@ -33,4 +33,3 @@
 3. **Identify orders placed during business hours (e.g., 9 AM to 6 PM).**
 4. **Write a query to get the count of users active on both weekdays and weekends.**
 5. **Retrieve customers who made purchases across at least three different categories.**
- 
